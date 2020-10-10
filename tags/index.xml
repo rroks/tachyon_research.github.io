@@ -6,9 +6,19 @@
     <description>Recent content in Tags on Tachyon Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 20 Sep 2020 18:03:18 +0800</lastBuildDate>
     
 	<atom:link href="https://tachyon-research.cn/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tachyon</title>
+      <link>https://tachyon-research.cn/tags/tachyon/</link>
+      <pubDate>Sun, 20 Sep 2020 18:03:18 +0800</pubDate>
+      
+      <guid>https://tachyon-research.cn/tags/tachyon/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

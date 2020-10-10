@@ -3,15 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tachyon-research.cn/categories/</loc>
+    <loc>https://tachyon-research.cn/posts/</loc>
+    <lastmod>2020-09-25T18:31:28+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://tachyon-research.cn/</loc>
+    <lastmod>2020-09-25T18:31:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tachyon-research.cn/posts/about-us/</loc>
+    <lastmod>2020-09-20T18:03:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tachyon-research.cn/tags/tachyon/</loc>
+    <lastmod>2020-09-20T18:03:18+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://tachyon-research.cn/tags/</loc>
+    <lastmod>2020-09-20T18:03:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tachyon-research.cn/categories/</loc>
   </url>
   
 </urlset>
